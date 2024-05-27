@@ -1,6 +1,4 @@
 # Kasheba
-
-# Kasheba (Saving Oriented Universal Lottery)
    <img src="TODO" alt="TODO"/>
 
 ### Inspiration
